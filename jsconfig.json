@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
     "jsx": "react",
-    "baseUrl": "src",
-    "resolveJsonModule": true
+    "baseUrl": "src"
   },
   "include": ["src"]
 }
