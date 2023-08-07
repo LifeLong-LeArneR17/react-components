@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LifeLong-LeArneR17/react1/static/css/main.fadfc502.css",
-    "main.js": "/LifeLong-LeArneR17/react1/static/js/main.9d3a91e7.js",
-    "index.html": "/LifeLong-LeArneR17/react1/index.html",
-    "main.fadfc502.css.map": "/LifeLong-LeArneR17/react1/static/css/main.fadfc502.css.map",
-    "main.9d3a91e7.js.map": "/LifeLong-LeArneR17/react1/static/js/main.9d3a91e7.js.map"
+    "main.css": "/LifeLong-LeArneR17/react-components/static/css/main.fadfc502.css",
+    "main.js": "/LifeLong-LeArneR17/react-components/static/js/main.77a89c01.js",
+    "index.html": "/LifeLong-LeArneR17/react-components/index.html",
+    "main.fadfc502.css.map": "/LifeLong-LeArneR17/react-components/static/css/main.fadfc502.css.map",
+    "main.77a89c01.js.map": "/LifeLong-LeArneR17/react-components/static/js/main.77a89c01.js.map"
   },
   "entrypoints": [
     "static/css/main.fadfc502.css",
-    "static/js/main.9d3a91e7.js"
+    "static/js/main.77a89c01.js"
   ]
 }
