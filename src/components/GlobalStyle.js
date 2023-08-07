@@ -7,5 +7,5 @@ const GlobalStyle = createGlobalStyle`
     background-color: red;
   }
 `;
-
+// rffr
 export default GlobalStyle;
